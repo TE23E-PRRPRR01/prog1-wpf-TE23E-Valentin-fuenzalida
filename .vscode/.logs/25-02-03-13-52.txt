@@ -3,3 +3,23 @@
 13:53:51 000:000 > H
 13:53:52 000:001 > He
 13:53:52 000:002 > Hej
+13:57:39 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\.gitignore
+----------------------------------------
+13:58:35 Document switched to: c:\Users\valentin.fuenzalida\AppData\Roaming\Code\User\profiles\-26818148\settings.json
+----------------------------------------
+13:59:22 042:004 > ,
+"files.associations": {
+    "*.xaml": "xml"
+},
+"xml.fileAssociations": [
+    {
+        "pattern": "**/*.xaml",
+        "systemId": "https://raw.githubusercontent.com/karye/xamelot/refs/heads/master/syntax/xaml.xsd"
+    }
+],
+14:01:23 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\.gitignore
+----------------------------------------
+14:01:25 Document switched to: c:\Users\valentin.fuenzalida\AppData\Roaming\Code\User\profiles\-26818148\settings.json
+----------------------------------------
+14:03:56 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\.vscode\csharp.code-snippets
+----------------------------------------
