@@ -1,0 +1,31 @@
+25-02-12 13:46 Session started
+----------------------------------------
+14:13:31 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\RäknaUtArea\MainWindow.xaml
+----------------------------------------
+14:13:32 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\RäknaUtArea\MainWindow.xaml.cs
+----------------------------------------
+13:10:30 000:000 > T
+13:10:30 000:001 > Tr
+13:10:30 000:002 > Trä
+13:10:30 000:003 > Trän
+13:10:30 000:004 > Träna
+13:10:31 000:005 > Tränat
+13:10:31 000:007 > Tränat w
+13:10:32 000:008 > Tränat wp
+13:10:32 000:009 > Tränat wpf
+13:10:33 000:011 > Tränat wpf e
+13:10:33 000:012 > Tränat wpf ev
+13:10:33 000:013 > Tränat wpf eve
+13:10:34 000:014 > Tränat wpf even
+13:10:34 000:015 > Tränat wpf event
+13:10:34 000:017 > Tränat wpf event o
+13:10:34 000:018 > Tränat wpf event oc
+13:10:34 000:019 > Tränat wpf event och
+13:10:36 000:011 > Tränat wpf event och o
+13:10:36 000:012 > Tränat wpf event och oc
+13:10:37 000:013 > Tränat wpf event och och
+13:10:37 000:015 > Tränat wpf event och och e
+13:10:37 000:016 > Tränat wpf event och och ev
+13:10:37 000:017 > Tränat wpf event och och eve
+13:10:37 000:018 > Tränat wpf event och och even
+13:10:38 000:019 > Tränat wpf event och och event
