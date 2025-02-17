@@ -1,0 +1,18 @@
+﻿<Window x:Class="GissaTal.MainWindow"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    xmlns:local="clr-namespace:GissaTal"
+    mc:Ignorable="d"
+    Title="MainWindow" Height="200" Width="300">
+    <StackPanel Margin="20"> 
+    <Label>Gissa ett tal mellan 1 och 100</Label>
+    <TextBox Name="txbGissning"></TextBox>
+    <Button Click="KlickGissa">Gissa</Button>
+    <TextBox Name="txbResultat" IsReadOnly="true"></TextBox>
+    <Label>Starta om</Label>
+    <Button Click="KlickStartaOm">Starta Om</Button>
+    <TextBox Name="txbAntalGissningar" IsReadOnly="true"></TextBox>
+    </StackPanel>
+</Window>

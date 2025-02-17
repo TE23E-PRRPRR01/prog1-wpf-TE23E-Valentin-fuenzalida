@@ -1,0 +1,6 @@
+25-02-17 11:53 Session started
+----------------------------------------
+11:53:20 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\RäknaUtArea\MainWindow.xaml.cs
+----------------------------------------
+12:51:13 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\SlumpTalApp\MainWindow.xaml.cs
+----------------------------------------
