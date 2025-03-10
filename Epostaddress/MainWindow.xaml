@@ -15,7 +15,7 @@
         <StackPanel Orientation="Horizontal">
             <Label Margin="5" Width="100">Ange text</Label>
             <TextBox Name="tbxText" Margin="5" Width="300" Height="70" AcceptsReturn="True" TextWrapping="WrapWithOverflow" VerticalScrollBarVisibility="auto"></TextBox>
-        </StackPanel>
+        </StackPanel> 
         <Button Click="KlickSkicka"
             Margin="5" Height="30">Skicka!</Button>
             <Label Name="lblStatus" Margin="5" Background="#FFF" Foreground="#999">Inga meddelanden...</Label>
