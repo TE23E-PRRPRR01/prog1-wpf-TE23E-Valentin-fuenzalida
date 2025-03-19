@@ -1,0 +1,16 @@
+﻿<Window x:Class="Portorräknare.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Portorräknare"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="250" Width="400">
+        <StackPanel>
+        <Label>Portoräknare</Label>
+        <Label>Vikt(gram)</Label>
+        <TextBox Name="tbxVikt"></TextBox>
+        <Button Click="KlickRäknare">Beräkna porto</Button>
+        <Label Name="lblresultat"></Label>
+        </StackPanel>
+</Window>

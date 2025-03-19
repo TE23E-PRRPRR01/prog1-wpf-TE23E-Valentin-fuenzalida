@@ -1,0 +1,12 @@
+25-03-19 13:48 Session started
+----------------------------------------
+14:14:39 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\Epostaddress\MainWindow.xaml
+----------------------------------------
+14:14:41 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\Epostaddress\MainWindow.xaml.cs
+----------------------------------------
+14:15:02 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\OmRöstning\MainWindow.xaml
+----------------------------------------
+14:15:03 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\OmRöstning\MainWindow.xaml.cs
+----------------------------------------
+14:15:54 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\GissaTal\MainWindow.xaml.cs
+----------------------------------------

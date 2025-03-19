@@ -2,3 +2,6 @@
 ----------------------------------------
 14:28:56 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\Epostaddress\MainWindow.xaml
 ----------------------------------------
+08:38:25 017:000 > </StackPanel>
+08:38:26 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\Epostaddress\MainWindow.xaml.cs
+----------------------------------------
