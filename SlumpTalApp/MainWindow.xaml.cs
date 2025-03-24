@@ -36,8 +36,6 @@ public partial class MainWindow : Window
             txbMaxvärde.Text = "";
             txbEj.Text = "Max är inte ett heltal";
             return;
-
-
         }
 
         txbEj.Text = "";

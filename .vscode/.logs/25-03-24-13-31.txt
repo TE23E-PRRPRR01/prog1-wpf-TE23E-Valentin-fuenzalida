@@ -1,0 +1,6 @@
+25-03-24 13:31 Session started
+----------------------------------------
+13:42:14 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\Portorräknare\MainWindow.xaml.cs
+----------------------------------------
+13:42:55 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\Portorräknare\MainWindow.xaml.cs
+----------------------------------------

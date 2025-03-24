@@ -1,0 +1,6 @@
+25-03-19 14:43 Session started
+----------------------------------------
+14:57:05 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\Brännbollsräknaren\MainWindow.xaml.cs
+----------------------------------------
+14:57:17 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\Portorräknare\MainWindow.xaml.cs
+----------------------------------------

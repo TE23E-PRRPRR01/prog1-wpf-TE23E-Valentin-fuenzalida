@@ -1,0 +1,22 @@
+﻿<Window x:Class="Aritmetiken.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Aritmetiken"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+        <StackPanel>
+        <Label>Artimetiken</Label>
+        <Label>Tal 1</Label>
+        <TextBox Name="tbxTal1"></TextBox>
+        <Label>Operator (+, -, *, /):</Label>
+        <TextBox Name="tbxOperator"></TextBox>
+        <Label>Tal 2</Label>
+        <TextBox Name="tbxTal2"></TextBox>
+        <Button Click="KlickBeräkna">Beräkna</Button>
+        <Label Name="lblResultat"></Label>
+
+        <Button Click="KlickRensa">Rensa</Button>
+        </StackPanel>
+</Window>
