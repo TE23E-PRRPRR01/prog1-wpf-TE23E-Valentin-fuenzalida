@@ -36,7 +36,9 @@ public partial class MainWindow : Window
         {
             if (Swisha >= Kontobalans)
             {
-
+                Kontobalans -= Swisha;
+                tbxKontobalans.Text = $"{Kontobalans} kr";
+                lblResultat.Content = $"Swishat: {Swisha} kr";
             }
         }
 
