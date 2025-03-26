@@ -1,0 +1,4 @@
+13:57:40 Document switched to: c:\Users\valentin.fuenzalida\github-classroom\prog1-wpf-TE23E\SlumpTalApp\MainWindow.xaml.cs
+----------------------------------------
+25-03-25 13:57 Session started
+----------------------------------------

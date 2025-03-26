@@ -34,7 +34,7 @@ public partial class MainWindow : Window
 
         if (int.TryParse(belopp, out int Swisha))
         {
-            if (Swisha >= Kontobalans)
+            if (Swisha <= Kontobalans)
             {
                 Kontobalans -= Swisha;
                 tbxKontobalans.Text = $"{Kontobalans} kr";
