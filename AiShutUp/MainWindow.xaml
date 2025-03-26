@@ -6,7 +6,7 @@
     xmlns:local="clr-namespace:AiShutUp"
     mc:Ignorable="d"
     Title="AIShutUp"
-    Height="450" Width="800" SizeToContent="WidthAndHeight">
+    Height="350" Width="800" SizeToContent="WidthAndHeight">
     <StackPanel Margin="10">
         <Label FontSize="20" FontWeight="Bold">AI chatt app</Label>
         <TextBox Name="txbPrompt"
