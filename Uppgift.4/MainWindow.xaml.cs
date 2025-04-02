@@ -9,6 +9,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Microsoft.Win32;
 
 namespace Uppgift._4;
 
@@ -30,7 +31,19 @@ public partial class MainWindow : Window
         }
         else
         {
-           resultatRuta.Text = File.ReadAllText(tbxFilnamn.Text);
+            resultatRuta.Text = File.ReadAllText(tbxFilnamn.Text);
+        }
+    }
+
+    private void btnvälj(object sender, RoutedEventArgs e)
+    {
+        OpenFileDialog openFileDialog = new OpenFileDialog();
+        openFileDialog.Title = "Välj en fil";
+        openFileDialog.Filter = "Textfiler (*.txt)|*.txt|Alla filer (*.*)|*.*";  // Begränsar filvalet (valfritt)
+
+        if (openFileDialog.ShowDialog() == true)  // Om användaren valt en fil
+        {
+            tbxFilnamn.Text = openFileDialog.FileName;  // Visar filnamnet i en TextBox
         }
     }
 }

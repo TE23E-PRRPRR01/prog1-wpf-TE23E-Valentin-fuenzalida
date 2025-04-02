@@ -15,5 +15,7 @@
             Name="resultatRuta" Margin="5" Height="150" Background="#FFF"
             FontStyle="italic" TextWrapping="WrapWithOverflow"
             VerticalScrollBarVisibility="Auto" AcceptsReturn="True" IsReadOnly="True"/>
+        
+        <Button Click="btnvälj">Välj fil...</Button>
     </StackPanel>
 </Window>
