@@ -1,0 +1,26 @@
+﻿<Window x:Class="Morsekod.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Morsekod"
+        mc:Ignorable="d"
+        Title="Morsekod" Height="450" Width="800"
+        SizeToContent="WidthAndHeight">
+        <StackPanel Margin="10">
+        <Label FontSize="20">Från text till Morsekod</Label>
+
+        <StackPanel Orientation="Horizontal">
+        <Label>Ange meddelande</Label>
+        <TextBox Name="tbxMening" Width="200" Height="50" TextWrapping="wrap"></TextBox>
+        </StackPanel>
+
+        <Button Click="btnÖversätt" Width="100" Height="50">Översätt</Button>
+
+        <StackPanel Orientation="Horizontal">
+        <Label>Meddelande</Label>
+        <TextBox Name="tbxMorsekod" Width="200" Height="50" IsReadOnly="true" TextWrapping="wrap"></TextBox>
+        </StackPanel>
+
+        </StackPanel>
+</Window>
